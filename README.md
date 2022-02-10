@@ -8,7 +8,8 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/daiki-kon/contributions.svg" />
   </a>
 </p>
-  
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daiki-kon)](https://github.com/daiki-kon/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daiki-kon)](https://github.com/daiki-kon/github-readme-stats)
 
 <!---
