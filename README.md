@@ -1,4 +1,14 @@
-- 👋 Hi, I’m @daiki-kon
+## Hi, I'm Hiroki
+
+<p align="left"> 
+  <a href="http://qiita.com/daiki-kon">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/daiki-kon/posts.svg" />
+  </a>
+  <//qiita.com/daiki-kon">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/daiki-kon/contributions.svg" />
+  </a>
+</p>
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
